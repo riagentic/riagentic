@@ -1,10 +1,10 @@
 # Hi, I'm riagentic 👋
 
-**Thirty years of engineering fundamentals. Since 2026, I build at agent speed and stay in control of what ships.**
+**Decades of engineering fundamentals. Since 2026, I build at agent speed and stay in control of what ships.**
 
-📍 Europe · open to roles in **Zurich** (preferred) or **Dublin** · 📫 riagentic@proton.me
+📍 Europe · open to roles in **Zurich** · 📫 riagentic@proton.me
 
-I've worked in IT for about 30 years, mostly on Linux and Java. In 2026 I changed how I build: AI agents now write most of my code, and my job is design, review and the gates that keep it honest. Everything on this profile was built that way, and each featured project has its own test suite.
+I've worked in IT for decades, mostly on Linux and Java. In 2026 I changed how I build: AI agents now write most of my code, and my job is design, review and the gates that keep it honest. Everything on this profile was built that way, and each featured project has its own test suite.
 
 What I build here: desktop apps on **[aio](https://github.com/riagentic/aio)**, my own full-stack TypeScript/Deno framework, plus **Rust** systems tools and **AI tooling** for coding agents and local LLMs.
 
