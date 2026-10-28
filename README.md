@@ -45,7 +45,7 @@ Small apps, each built fast (often from a single prompt) to stress-test the fram
 
 ### 🩻 Shipped side project (closed source)
 
-**[Anatom 3D](https://anatom3d.com/)** is a free 3D atlas of the human body: 2,885 structures from a real scanned body, 617 conditions with PubMed-linked evidence, English, Czech and German plus Latin, and desktop apps for Windows, macOS and Linux. The full atlas is free, with no accounts, tracking or ads; a paid PRO edition adds study tools such as quizzes and flashcards.
+**[Anatom 3D](https://anatom3d.com/)** is a free 3D atlas of the human body, built on aio (v1): 2,885 structures from a real scanned body, 617 conditions with PubMed-linked evidence, English, Czech and German plus Latin, and desktop apps for Windows, macOS and Linux. The full atlas is free, with no accounts, tracking or ads; a paid PRO edition adds study tools such as quizzes and flashcards.
 
 ---
 
