@@ -43,6 +43,10 @@ Small apps, each built fast (often from a single prompt) to stress-test the fram
 | **[rpx](https://github.com/riagentic/rpx)** | Zero-dependency, transport-agnostic RPC for Deno: a TypeScript interface is the contract, with swappable UDS, TCP, stdio and WebSocket transports. It has 50 test cases. |
 | **[protector](https://github.com/riagentic/protector)** | A Linux freeze guard: a Rust daemon reads memory, swap and kernel PSI, scores process trees, and kills one runaway job only when the OS is about to lock up. |
 
+### 🩻 Shipped side project (closed source)
+
+**[Anatom 3D](https://anatom3d.com/)** is a free 3D atlas of the human body: 2,885 structures from a real scanned body, 617 conditions with PubMed-linked evidence, English, Czech and German plus Latin, and desktop apps for Windows, macOS and Linux. The full atlas is free, with no accounts, tracking or ads; a paid PRO edition adds study tools such as quizzes and flashcards.
+
 ---
 
 ## 🛠 Tech stack
