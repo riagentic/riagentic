@@ -35,7 +35,6 @@ I'm looking for engineering roles at strong AI, infrastructure and Web3 companie
 | [bsv](https://github.com/riagentic/bsv) | Bible Source Version reader (desktop and Android) |
 | [ayd](https://github.com/riagentic/ayd) | Video downloader (yt-dlp) |
 | [Space Invaders](https://github.com/riagentic/space-invaders) | Neon arcade game |
-| amui | aio's own app manager |
 
 ## ⭐ Featured
 
