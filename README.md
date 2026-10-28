@@ -4,7 +4,7 @@
 
 📍 Europe · open to roles in **Zurich** · 📫 riagentic@proton.me · 𝕏 [@riagentic](https://x.com/riagentic) (DMs open)
 
-I've worked in IT for decades, mostly on Linux and Java. In 2026 I changed how I build: AI agents now write most of my code, and my job is design, review and the gates that keep it honest. Everything on this profile was built that way, and each featured project has its own test suite.
+I've worked in IT for decades, mostly on Linux and Java. In 2026 I changed how I build: AI agents now write most of my code, and my job is design, review and the gates that keep it honest. Most projects here were built entirely by agents; a few I wrote by hand, or half by hand. Each featured project has its own test suite.
 
 What I build here: desktop apps on **[aio](https://github.com/riagentic/aio)**, my own full-stack TypeScript/Deno framework, plus **Rust** systems tools and **AI tooling** for coding agents and local LLMs.
 
