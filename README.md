@@ -12,29 +12,25 @@ I'm looking for engineering roles at strong AI, infrastructure and Web3 companie
 
 ---
 
-## 🚀 Headline: a framework, plus 15 apps built on it
+## 🚀 Headline: a framework, plus the apps built on it
 
 **[aio](https://github.com/riagentic/aio)** is my full-stack app framework. One `cell` is your server state, persistence, sync and UI, and it builds to browser, desktop (Electron), Android and a single binary. It has 2,700+ test files, its own linter (`aiol`), module-boundary and API-snapshot checks, and 121 version tags since Feb 2026.
 
-**[aio-launcher](https://github.com/riagentic/aio-launcher)** proves aio runs real software. From one window it installs, updates and opens every app below, building each one from source on your machine. It checks for updates hourly and updates itself from GitHub releases on Linux, macOS and Windows.
+**[aio-launcher](https://github.com/riagentic/aio-launcher)** proves aio runs real software. From one window it installs, updates and opens 15 aio apps (including cc, llama-master and protector below), building each from source on your machine. It updates itself from GitHub releases on Linux, macOS and Windows.
 
-| App | What it does |
-| --- | --- |
-| [cc](https://github.com/riagentic/cc) | Claude Control: runs Claude Code across many projects, with in-window approvals and local LLMs |
-| [llama.master](https://github.com/riagentic/llama-master) | Gets, fits, runs and chats with llama.cpp models |
-| [writy](https://github.com/riagentic/writy) | Documents, sheets and slides in one `.html` file |
-| [protector](https://github.com/riagentic/protector) | Keeps your workstation from freezing (Rust daemon plus UI) |
-| [machine](https://github.com/riagentic/machine) | Live hardware monitor (Rust/WASM parsers) |
-| [netmap](https://github.com/riagentic/netmap) | Local network and internet path map |
-| [fixable](https://github.com/riagentic/fixable) | Linux desktop health checks |
-| [spacy](https://github.com/riagentic/spacy) | Shows where your disk space went |
-| [mdview](https://github.com/riagentic/mdview) | Markdown viewer |
-| [fjssm](https://github.com/riagentic/fjssm) | Fuzzy job-shop scheduling (a port of a 2002 MFC app) |
-| [mushradar](https://github.com/riagentic/mushradar) | 3D mushroom forecast map of Czechia |
-| [calcaio](https://github.com/riagentic/calcaio) | Scientific calculator that draws every result |
-| [bsv](https://github.com/riagentic/bsv) | Bible Source Version reader (desktop and Android) |
-| [ayd](https://github.com/riagentic/ayd) | Video downloader (yt-dlp) |
-| [Space Invaders](https://github.com/riagentic/space-invaders) | Neon arcade game |
+### 🧪 aio app gallery
+
+Small apps, each built fast (often from a single prompt) to stress-test the framework, and still genuinely usable:
+
+| App | | App | |
+| --- | --- | --- | --- |
+| [calcaio](https://github.com/riagentic/calcaio) | calculator that plots every result | [spacy](https://github.com/riagentic/spacy) | where did my disk space go |
+| [mdview](https://github.com/riagentic/mdview) | Markdown viewer | [mcx](https://github.com/riagentic/mcx) | Midnight Commander clone |
+| [Space Invaders](https://github.com/riagentic/space-invaders) | neon arcade game | [fixable](https://github.com/riagentic/fixable) | Linux desktop health checks |
+| [ayd](https://github.com/riagentic/ayd) | video downloader (yt-dlp) | [bsv](https://github.com/riagentic/bsv) | Bible reader, desktop + Android |
+| [mushradar](https://github.com/riagentic/mushradar) | 3D mushroom forecast map | [machine](https://github.com/riagentic/machine) | live hardware monitor (Rust/WASM) |
+| [netmap](https://github.com/riagentic/netmap) | LAN and internet path map | [writy](https://github.com/riagentic/writy) | docs, sheets, slides in one `.html` |
+| [fjssm](https://github.com/riagentic/fjssm) | job-shop scheduling (port of a 2002 MFC app) | | |
 
 ## ⭐ Featured
 
