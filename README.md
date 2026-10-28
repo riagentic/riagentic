@@ -6,7 +6,7 @@
 
 I've worked in IT for decades, mostly on Linux and Java. In 2026 I changed how I build: AI agents now write most of my code, and my job is design, review and the gates that keep it honest. Most projects here were built entirely by agents; a few I wrote by hand, or half by hand. Each featured project has its own test suite.
 
-What I build here: desktop apps on **[aio](https://github.com/riagentic/aio)**, my own full-stack TypeScript/Deno framework, plus **Rust** systems tools and **AI tooling** for coding agents and local LLMs.
+What I build here: desktop apps on **[aio](https://github.com/riagentic/aio)**, my own full-stack TypeScript/Deno (v1) and Rust (v2) framework, plus **Rust** systems tools and **AI tooling** for coding agents and local LLMs.
 
 I'm looking for engineering roles at strong AI, infrastructure and Web3 companies (Solana especially), where solid fundamentals and fluent use of agents both count.
 
