@@ -2,7 +2,7 @@
 
 **Decades of engineering fundamentals. Since 2026, I build at agent speed and stay in control of what ships.**
 
-📍 Europe · open to roles in **Zurich** · 📫 riagentic@proton.me
+📍 Europe · open to roles in **Zurich** · 📫 riagentic@proton.me · 𝕏 [@riagentic](https://x.com/riagentic) (DMs open)
 
 I've worked in IT for decades, mostly on Linux and Java. In 2026 I changed how I build: AI agents now write most of my code, and my job is design, review and the gates that keep it honest. Everything on this profile was built that way, and each featured project has its own test suite.
 
@@ -62,4 +62,4 @@ Agents write most of my code, and I say so openly. I own the design, the review 
 
 ---
 
-📫 Get in touch: riagentic@proton.me. I'm happy to share a full CV and references with a recruiter once we're talking.
+📫 Get in touch: riagentic@proton.me or 𝕏 [@riagentic](https://x.com/riagentic) (DMs open). I'm happy to share a full CV and references with a recruiter once we're talking.
