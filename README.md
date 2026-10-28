@@ -14,7 +14,7 @@ I'm looking for engineering roles at strong AI, infrastructure and Web3 companie
 
 ## 🚀 Headline: a framework, plus the apps built on it
 
-**[aio](https://github.com/riagentic/aio)** is my full-stack app framework. One `cell` is your server state, persistence, sync and UI, and it builds to browser, desktop (Electron), Android and a single binary. It has 2,700+ test files, its own linter (`aiol`), module-boundary and API-snapshot checks, and 121 version tags since Feb 2026.
+**[aio](https://github.com/riagentic/aio)** is my full-stack app framework. One `cell` is your server state, persistence, sync and UI, and it builds to browser, desktop (Electron), Android and a single binary. It has about 2,900 test files, its own linter (`aiol`), module-boundary and API-snapshot checks, and 121 version tags since Feb 2026.
 
 **[aio-launcher](https://github.com/riagentic/aio-launcher)** proves aio runs real software. From one window it installs, updates and opens 15 aio apps (including cc, llama-master and protector below), building each from source on your machine. It updates itself from GitHub releases on Linux, macOS and Windows.
 
